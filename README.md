@@ -1,5 +1,5 @@
 ### 안녕하세요
-<a href="mailto:kwish@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/-00498c?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:kwish@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-00498c?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!--
 **kwish2/kwish2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
