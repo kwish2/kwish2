@@ -2,7 +2,8 @@
 <a href="mailto:kwish@snu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-00498c?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kwish)](https://solved.ac/kwish)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwish)](https://solved.ac/kwish)
+
 <!--
 **kwish2/kwish2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
